@@ -5,9 +5,3 @@ def main():
     hello_world('NYC')
 
 main()
-
-def main():
-    print("Hello World!")
-    
-    
-main()
